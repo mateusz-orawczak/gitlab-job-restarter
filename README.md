@@ -1,6 +1,6 @@
 # gitlab-job-restarter
 
-1. Generate new Personal Access Token gitlab token  
+1. Generate new Personal Access Token on gitlab settings  
 https://gitlab.lastminute.com/-/user_settings/personal_access_tokens
 2. Replace line number 5 - `const TOKEN = 'XXXX'` - with your PAT (token)
 3. `npm install`
