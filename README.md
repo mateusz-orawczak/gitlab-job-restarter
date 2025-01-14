@@ -2,7 +2,7 @@
 
 1. Generate new Personal Access Token gitlab token  
 https://gitlab.lastminute.com/-/user_settings/personal_access_tokens
-2. Replace it line number 5 - `const TOKEN = 'XXXX'`
+2. Replace line number 5 - `const TOKEN = 'XXXX'` - with your PAT (token)
 3. `npm install`
 4. `node index.js`
 5. Watch the output:
